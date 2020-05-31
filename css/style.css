@@ -26,3 +26,12 @@ html
     
     
 }
+
+.footer {
+    left: 0px;
+    bottom: ppx;
+    width: 100%;
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
